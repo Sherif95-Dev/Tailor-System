@@ -2,6 +2,11 @@
 **Currently deployed and used in a real tailoring shop for daily sales and inventory operations.
 
 Live System: https://admin.markmattclothing.com
+## 🎬 System Demo
+
+👉 **Watch Demo Video**
+
+https://drive.google.com/drive/folders/1YVJmisEXKjLo9F0H8i4ZwHEpMtjgfSsd?usp=drive_link
 
 
            Technologies:
